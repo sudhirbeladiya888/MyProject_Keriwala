@@ -8,13 +8,6 @@
 	
 	if($_SERVER['REQUEST_URI'] == "admin.cubicanalytical.com")
 	{
-	define("db_host","localhost");
-	define("db_user","cubicavd_admin");
-	define("db_pass","admin123");
-	define("db_name","cubicavd_db_cubic");
-
-	define("DOMAIN","http://admin.cubicanalytical.com/");
-	define("WEB_SERVICE_PATH","http://admin.cubicanalytical.com/web_services/");
 	}
 	else
 	{
