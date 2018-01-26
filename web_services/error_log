@@ -1,0 +1,1100 @@
+[12-Aug-2017 09:05:16 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Aug-2017 09:05:20 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Aug-2017 09:05:24 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Aug-2017 09:05:25 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Aug-2017 09:05:25 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Aug-2017 09:05:26 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Aug-2017 09:05:43 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Aug-2017 09:07:39 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Aug-2017 09:07:40 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_admin WHERE (email='admin' OR username = 'admin') AND password='YWRtaW4=') Table 'cubicavd_db_cubic.tbl_admin' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[18-Aug-2017 03:18:43 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT * FROM tbl_samples WHERE  '1:1' ) Table 'cubicavd_db_cubic.tbl_samples' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[18-Aug-2017 03:18:51 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT * FROM tbl_samples WHERE  '1:1' ) Table 'cubicavd_db_cubic.tbl_samples' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[18-Aug-2017 03:19:35 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT * FROM tbl_samples WHERE  '1:1' ) Table 'cubicavd_db_cubic.tbl_samples' doesn't exist in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[18-Aug-2017 03:23:23 Etc/GMT] PHP Warning:  require_once(../lib/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:23:23 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../lib/fpdf/fpdf.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:23:37 Etc/GMT] PHP Warning:  require_once(../lib/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:23:37 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../lib/fpdf/fpdf.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:23:59 Etc/GMT] PHP Warning:  require_once(../lib/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:23:59 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../lib/fpdf/fpdf.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:26:06 Etc/GMT] PHP Warning:  require_once(../lib/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:26:06 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../lib/fpdf/fpdf.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:26:09 Etc/GMT] PHP Warning:  require_once(../lib/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:26:09 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../lib/fpdf/fpdf.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 03:29:03 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 17
+[18-Aug-2017 03:29:13 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:29:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(44): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:32:14 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:32:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:32:53 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:32:53 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:32:55 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:32:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:33:28 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:33:28 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:33:48 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:33:48 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:34:09 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:34:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:34:13 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:34:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:34:54 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:34:54 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:34:57 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:34:57 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:34:58 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:34:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:34:59 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:34:59 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:35:39 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:35:39 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 03:36:03 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 03:36:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 05:24:56 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 05:24:56 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 05:24:57 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 05:24:57 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 07:53:37 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 07:53:37 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 07:55:59 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 07:55:59 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 08:00:26 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 08:00:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 08:17:03 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 08:17:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 08:17:11 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 08:17:11 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:15:25 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:15:25 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:16:01 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:16:01 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(49): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:16:49 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:16:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(49): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:16:58 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:16:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(49): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:17:00 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:17:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(49): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:17:23 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 21
+[18-Aug-2017 14:17:27 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 21
+[18-Aug-2017 14:18:21 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 16
+[18-Aug-2017 14:18:23 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 16
+[18-Aug-2017 14:18:33 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:18:33 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(43): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:18:38 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 16
+[18-Aug-2017 14:20:45 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 16
+[18-Aug-2017 14:21:20 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 16
+[18-Aug-2017 14:22:06 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 17
+[18-Aug-2017 14:22:35 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 18
+[18-Aug-2017 14:23:01 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:23:01 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:23:46 Etc/GMT] PHP Warning:  require_once(../lib/fpdf/fpd.php): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 14:23:46 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../lib/fpdf/fpd.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 14:25:27 Etc/GMT] PHP Warning:  require_once(../lib/fpdf/fpd.php): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 14:25:27 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../lib/fpdf/fpd.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 14:25:33 Etc/GMT] PHP Warning:  require_once(../lib/fpdf/fpd.php): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 14:25:33 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../lib/fpdf/fpd.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 2
+[18-Aug-2017 14:25:49 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:25:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:26:08 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:26:08 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:26:43 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:26:43 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:33:27 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:33:27 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:33:59 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 14:33:59 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:37:29 Etc/GMT] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 10
+[18-Aug-2017 14:37:29 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 12
+[18-Aug-2017 14:38:47 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:39:13 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:39:32 Etc/GMT] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 10
+[18-Aug-2017 14:39:32 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 12
+[18-Aug-2017 14:40:44 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:40:44 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:40:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:40:44 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:40:56 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:40:56 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:40:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:40:56 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:40:58 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:40:58 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:40:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:40:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:41:08 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:41:08 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:41:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:41:08 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:41:10 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:41:10 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:41:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:41:10 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:41:10 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:41:10 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:41:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:41:10 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:41:10 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:41:10 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:41:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:41:10 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:41:10 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:41:10 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:41:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:41:10 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:41:11 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:41:11 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:41:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:41:11 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cubicavd/public_html/admin/web_services/print.php(117): FPDF->Output()
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:41:45 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:41:45 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:41:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:47:58 UTC] PHP Notice:  Undefined variable: number_of_sample_data in /home/cubicavd/public_html/admin/web_services/print.php on line 16
+[18-Aug-2017 14:48:13 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 14:48:13 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 26
+[18-Aug-2017 14:48:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 28
+[18-Aug-2017 14:50:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '$fpdf' (T_VARIABLE), expecting function (T_FUNCTION) in /home/cubicavd/public_html/admin/web_services/print.php on line 22
+[18-Aug-2017 14:50:45 Etc/GMT] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 10
+[18-Aug-2017 14:50:45 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 12
+[18-Aug-2017 14:52:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::LoadData() in /home/cubicavd/public_html/admin/web_services/print.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print.php on line 13
+[18-Aug-2017 14:52:16 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/cubicavd/public_html/admin/web_services/print.php on line 16
+[18-Aug-2017 14:52:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::LoadData() in /home/cubicavd/public_html/admin/web_services/print.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print.php on line 13
+[18-Aug-2017 14:52:50 Etc/GMT] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 10
+[18-Aug-2017 14:52:50 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 12
+[18-Aug-2017 14:52:50 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::BasicTable() in /home/cubicavd/public_html/admin/web_services/print.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print.php on line 80
+[18-Aug-2017 14:52:58 Etc/GMT] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 10
+[18-Aug-2017 14:52:58 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 12
+[18-Aug-2017 14:53:55 Etc/GMT] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/web_services/print.php on line 10
+[18-Aug-2017 14:53:55 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/cubicavd/public_html/admin/web_services/print.php on line 12
+[18-Aug-2017 14:55:19 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Better' (T_STRING), expecting function (T_FUNCTION) in /home/cubicavd/public_html/admin/web_services/print.php on line 6
+[18-Aug-2017 14:55:33 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Better' (T_STRING), expecting function (T_FUNCTION) in /home/cubicavd/public_html/admin/web_services/print.php on line 6
+[18-Aug-2017 14:57:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '$fpdf' (T_VARIABLE), expecting function (T_FUNCTION) in /home/cubicavd/public_html/admin/web_services/print.php on line 7
+[18-Aug-2017 14:57:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '$fpdf' (T_VARIABLE), expecting function (T_FUNCTION) in /home/cubicavd/public_html/admin/web_services/print.php on line 7
+[18-Aug-2017 14:57:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home/cubicavd/public_html/admin/web_services/print.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print.php on line 6
+[18-Aug-2017 14:57:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home/cubicavd/public_html/admin/web_services/print.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print.php on line 6
+[18-Aug-2017 14:57:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home/cubicavd/public_html/admin/web_services/print.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print.php on line 6
+[18-Aug-2017 14:57:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home/cubicavd/public_html/admin/web_services/print.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print.php on line 6
+[18-Aug-2017 14:59:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE), expecting function (T_FUNCTION) in /home/cubicavd/public_html/admin/web_services/print.php on line 8
+[18-Aug-2017 14:59:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE), expecting function (T_FUNCTION) in /home/cubicavd/public_html/admin/web_services/print.php on line 8
+[18-Aug-2017 14:59:38 Etc/GMT] PHP Fatal error:  Uncaught Exception: FPDF error: No page has been added yet in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1450): FPDF->Error('No page has bee...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(643): FPDF->_out('BT 525.75 797.7...')
+#2 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(767): FPDF->Cell(90, 5, 'HI', 0, 2, 'R', false)
+#3 /home/cubicavd/public_html/admin/web_services/print.php(14): FPDF->MultiCell(90, 5, 'HI', 0, 'R', false)
+#4 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:59:40 Etc/GMT] PHP Fatal error:  Uncaught Exception: FPDF error: No page has been added yet in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1450): FPDF->Error('No page has bee...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(643): FPDF->_out('BT 525.75 797.7...')
+#2 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(767): FPDF->Cell(90, 5, 'HI', 0, 2, 'R', false)
+#3 /home/cubicavd/public_html/admin/web_services/print.php(14): FPDF->MultiCell(90, 5, 'HI', 0, 'R', false)
+#4 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:59:41 Etc/GMT] PHP Fatal error:  Uncaught Exception: FPDF error: No page has been added yet in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1450): FPDF->Error('No page has bee...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(643): FPDF->_out('BT 525.75 797.7...')
+#2 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(767): FPDF->Cell(90, 5, 'HI', 0, 2, 'R', false)
+#3 /home/cubicavd/public_html/admin/web_services/print.php(14): FPDF->MultiCell(90, 5, 'HI', 0, 'R', false)
+#4 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 14:59:41 Etc/GMT] PHP Fatal error:  Uncaught Exception: FPDF error: No page has been added yet in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1450): FPDF->Error('No page has bee...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(643): FPDF->_out('BT 525.75 797.7...')
+#2 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(767): FPDF->Cell(90, 5, 'HI', 0, 2, 'R', false)
+#3 /home/cubicavd/public_html/admin/web_services/print.php(14): FPDF->MultiCell(90, 5, 'HI', 0, 'R', false)
+#4 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:01:35 Etc/GMT] PHP Notice:  Undefined variable: pdf in /home/cubicavd/public_html/admin/web_services/print.php on line 12
+[18-Aug-2017 15:01:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home/cubicavd/public_html/admin/web_services/print.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print.php on line 12
+[18-Aug-2017 15:03:45 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print.php on line 18
+[18-Aug-2017 15:08:13 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:08:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:08:44 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:08:44 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:08:46 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:08:46 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:10:22 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:10:22 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(43): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:11:27 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:11:27 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(38): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:40:31 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:40:31 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(38): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:40:35 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:40:35 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print_sample.php(46): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:42:24 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:42:24 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(38): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:44:06 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:44:06 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:44:53 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:44:53 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:45:31 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:45:31 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:45:54 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:45:54 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:45:55 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:45:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:46:23 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:46:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:46:42 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:46:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:46:44 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:46:44 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(45): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 15:48:14 UTC] PHP Warning:  fopen(images/cubic_logo.png): failed to open stream: No such file or directory in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 1259
+[18-Aug-2017 15:48:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/cubic_logo.png in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php(885): FPDF->_parsepng('images/cubic_lo...')
+#2 /home/cubicavd/public_html/admin/web_services/print.php(49): FPDF->Image('images/cubic_lo...', 10, 10, 75)
+#3 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdf/fpdf.php on line 271
+[18-Aug-2017 23:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method FPDF::setSourceFile() in /home/cubicavd/public_html/admin/web_services/print_sample.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 188
+[18-Aug-2017 23:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method FPDF::setSourceFile() in /home/cubicavd/public_html/admin/web_services/print_sample.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 189
+[18-Aug-2017 23:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method FPDF::setSourceFile() in /home/cubicavd/public_html/admin/web_services/print_sample.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 189
+[18-Aug-2017 23:43:00 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDFI' not found in /home/cubicavd/public_html/admin/web_services/print_sample.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 13
+[18-Aug-2017 23:43:15 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDFI' not found in /home/cubicavd/public_html/admin/web_services/print_sample.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 13
+[19-Aug-2017 03:28:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 151
+[19-Aug-2017 03:28:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 151
+[19-Aug-2017 03:30:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 151
+[19-Aug-2017 03:31:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 151
+[19-Aug-2017 05:23:39 UTC] PHP Fatal error:  Uncaught Exception: Unable to find "startxref" keyword. in /home/cubicavd/public_html/admin/lib/fpdfi/pdf_parser.php:287
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdfi/pdf_parser.php(195): pdf_parser->_findXref()
+#1 /home/cubicavd/public_html/admin/lib/fpdfi/fpdi_pdf_parser.php(64): pdf_parser->__construct('/home/cubicavd/...')
+#2 /home/cubicavd/public_html/admin/lib/fpdfi/fpdi.php(135): fpdi_pdf_parser->__construct('/home/cubicavd/...')
+#3 /home/cubicavd/public_html/admin/lib/fpdfi/fpdi.php(106): FPDI->_getPdfParser('/home/cubicavd/...')
+#4 /home/cubicavd/public_html/admin/web_services/print_sample.php(188): FPDI->setSourceFile('/home/cubicavd/...')
+#5 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdfi/pdf_parser.php on line 287
+[19-Aug-2017 05:23:49 UTC] PHP Fatal error:  Uncaught Exception: Unable to find "startxref" keyword. in /home/cubicavd/public_html/admin/lib/fpdfi/pdf_parser.php:287
+Stack trace:
+#0 /home/cubicavd/public_html/admin/lib/fpdfi/pdf_parser.php(195): pdf_parser->_findXref()
+#1 /home/cubicavd/public_html/admin/lib/fpdfi/fpdi_pdf_parser.php(64): pdf_parser->__construct('/home/cubicavd/...')
+#2 /home/cubicavd/public_html/admin/lib/fpdfi/fpdi.php(135): fpdi_pdf_parser->__construct('/home/cubicavd/...')
+#3 /home/cubicavd/public_html/admin/lib/fpdfi/fpdi.php(106): FPDI->_getPdfParser('/home/cubicavd/...')
+#4 /home/cubicavd/public_html/admin/web_services/print_sample.php(188): FPDI->setSourceFile('/home/cubicavd/...')
+#5 {main}
+  thrown in /home/cubicavd/public_html/admin/lib/fpdfi/pdf_parser.php on line 287
+[25-Sep-2017 16:40:12 UTC] PHP Notice:  Undefined index: op in /home/cubicavd/public_html/admin/web_services/service.php on line 17
+[04-Nov-2017 17:32:04 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 19
+[24-Nov-2017 09:41:54 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 19
+[22-Dec-2017 17:05:55 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cubicavd/public_html/admin/web_services/_DB.php on line 14
+[22-Dec-2017 17:05:55 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/cubicavd/public_html/admin/web_services/_DB.php on line 17
+[22-Dec-2017 17:05:56 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cubicavd/public_html/admin/web_services/_DB.php on line 14
+[22-Dec-2017 17:05:56 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/cubicavd/public_html/admin/web_services/_DB.php on line 17
+[22-Dec-2017 17:06:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cubicavd/public_html/admin/web_services/_DB.php on line 14
+[22-Dec-2017 17:06:01 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/cubicavd/public_html/admin/web_services/_DB.php on line 17
+[22-Dec-2017 17:06:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cubicavd/public_html/admin/web_services/_DB.php on line 14
+[22-Dec-2017 17:06:01 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/cubicavd/public_html/admin/web_services/_DB.php on line 17
+[22-Dec-2017 17:06:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cubicavd/public_html/admin/web_services/_DB.php on line 14
+[22-Dec-2017 17:06:02 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/cubicavd/public_html/admin/web_services/_DB.php on line 17
+[22-Dec-2017 17:06:47 UTC] PHP Notice:  Undefined index: op in /home/cubicavd/public_html/admin/web_services/service.php on line 17
+[22-Dec-2017 17:06:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cubicavd/public_html/admin/web_services/_DB.php on line 14
+[22-Dec-2017 17:06:47 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/cubicavd/public_html/admin/web_services/_DB.php on line 17
+[22-Dec-2017 17:06:48 UTC] PHP Notice:  Undefined index: op in /home/cubicavd/public_html/admin/web_services/service.php on line 17
+[22-Dec-2017 17:06:48 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cubicavd/public_html/admin/web_services/_DB.php on line 14
+[22-Dec-2017 17:06:48 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/cubicavd/public_html/admin/web_services/_DB.php on line 17
+[22-Dec-2017 18:07:50 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:50 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:50 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:50 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:50 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:50 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:53 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:53 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:53 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:53 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:53 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:53 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:54 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:54 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:54 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:54 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:54 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:54 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:55 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:56 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:07:57 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:07:57 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:07:57 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:07:57 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:07:57 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:07:57 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:08:02 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:08:02 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:08:02 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:08:02 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:08:02 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:08:02 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:08:03 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:08:05 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:08:06 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:08:06 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:08:06 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:08:06 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:08:06 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:08:06 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[22-Dec-2017 18:08:07 UTC] PHP Notice:  Constant db_host already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 21
+[22-Dec-2017 18:08:07 UTC] PHP Notice:  Constant db_user already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 22
+[22-Dec-2017 18:08:07 UTC] PHP Notice:  Constant db_pass already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 23
+[22-Dec-2017 18:08:07 UTC] PHP Notice:  Constant db_name already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 24
+[22-Dec-2017 18:08:07 UTC] PHP Notice:  Constant DOMAIN already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 26
+[22-Dec-2017 18:08:07 UTC] PHP Notice:  Constant WEB_SERVICE_PATH already defined in /home/cubicavd/public_html/admin/web_services/_CONFIG.php on line 27
+[26-Dec-2017 20:50:53 UTC] PHP Notice:  Undefined index: op in /home/cubicavd/public_html/admin/web_services/service.php on line 17
+[27-Dec-2017 05:46:52 UTC] PHP Notice:  Undefined index: op in /home/cubicavd/public_html/admin/web_services/service.php on line 17
+[07-Jan-2018 17:54:53 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' ) Unknown column 'is_deleted' in 'where clause' in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[07-Jan-2018 22:28:58 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[08-Jan-2018 09:07:04 UTC] PHP Notice:  Undefined index: sample_report in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 21
+[08-Jan-2018 09:07:04 UTC] PHP Notice:  Undefined index: order_to in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 100
+[08-Jan-2018 09:07:04 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/cubicavd/public_html/admin/web_services/fpdf/fpdf.php on line 1004
+[08-Jan-2018 16:08:43 UTC] PHP Notice:  Undefined index: sample_report in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 21
+[08-Jan-2018 16:08:43 UTC] PHP Notice:  Undefined index: order_to in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 100
+[08-Jan-2018 16:08:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/cubicavd/public_html/admin/web_services/fpdf/fpdf.php on line 1004
+[08-Jan-2018 16:08:58 UTC] PHP Notice:  Undefined index: sample_report in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 21
+[08-Jan-2018 16:08:58 UTC] PHP Notice:  Undefined index: order_to in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 100
+[08-Jan-2018 16:08:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/cubicavd/public_html/admin/web_services/fpdf/fpdf.php on line 1004
+[09-Jan-2018 09:49:07 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 09:49:17 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 09:49:19 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 3 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 09:49:22 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 12:05:42 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 12:05:44 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 12:05:46 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 3 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 12:05:50 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 19:15:23 UTC] PHP Notice:  Undefined index: sample_report in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 21
+[09-Jan-2018 19:15:24 UTC] PHP Notice:  Undefined index: order_to in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 100
+[09-Jan-2018 19:15:24 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/cubicavd/public_html/admin/web_services/fpdf/fpdf.php on line 1004
+[09-Jan-2018 19:34:30 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 19:55:04 UTC] PHP Notice:  Undefined index: sample_report in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 21
+[09-Jan-2018 19:55:04 UTC] PHP Notice:  Undefined index: order_to in /home/cubicavd/public_html/admin/web_services/print_sample.php on line 100
+[09-Jan-2018 19:55:04 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/cubicavd/public_html/admin/web_services/fpdf/fpdf.php on line 1004
+[09-Jan-2018 20:24:00 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 20:25:37 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 20:25:56 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 21:28:49 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 22:36:51 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[09-Jan-2018 22:37:39 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 02:50:09 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 10:01:24 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 12:52:33 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 18:24:52 UTC] PHP Fatal error:  Problem preparing query (SELECT * FROM tbl_price_record WHERE company_id= AND test_id=1) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND test_id=1' at line 1 in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 19:00:25 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 19:00:29 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 3 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 19:00:31 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 19:00:53 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 19:02:16 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 20:27:00 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 20:27:03 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 20:28:04 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[10-Jan-2018 20:28:06 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Jan-2018 16:01:08 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[12-Jan-2018 16:01:37 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[14-Jan-2018 16:10:56 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[14-Jan-2018 16:10:58 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[14-Jan-2018 16:11:07 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[14-Jan-2018 16:11:12 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 05:23:18 UTC] PHP Notice:  Undefined index: op in /home/cubicavd/public_html/admin/web_services/service.php on line 17
+[15-Jan-2018 05:25:29 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 08:49:00 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 08:49:27 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 08:49:36 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 08:49:56 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 08:53:12 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 08:53:15 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 09:27:21 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 09:27:23 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 09:27:40 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 09:30:21 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 09:30:22 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 09:33:55 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 10:34:39 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 10:34:42 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 10:34:53 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 10:34:56 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[15-Jan-2018 10:35:07 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[16-Jan-2018 19:24:58 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[16-Jan-2018 19:25:03 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[16-Jan-2018 19:25:06 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[18-Jan-2018 09:37:53 UTC] PHP Notice:  Undefined index: op in /home/cubicavd/public_html/admin/web_services/service.php on line 17
+[18-Jan-2018 09:58:05 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[18-Jan-2018 09:58:07 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4 AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[18-Jan-2018 16:42:51 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 4) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[18-Jan-2018 16:42:54 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[19-Jan-2018 06:47:18 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[20-Jan-2018 05:32:33 UTC] PHP Fatal error:  Problem preparing query (
+	    	SELECT smp.*,cmp.name as company_name
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0'  AND company_id= 1) Column 'company_id' in where clause is ambiguous in /home/cubicavd/public_html/admin/web_services/_DB.php on line 70
+[21-Jan-2018 06:26:45 UTC] PHP Notice:  Undefined offset: 0 in /home/cubicavd/public_html/admin/web_services/add_samples.php on line 118
