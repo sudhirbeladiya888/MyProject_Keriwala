@@ -1,0 +1,4976 @@
+
+2018-01-26 18:14:40: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:14:40: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:14:40: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:14:40: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => B/01/25/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 25-01-2018
+                    [order_type] => 2
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/B/2018/01/25/001
+
+                    [certificate_date] => 01-05-2018
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-25 16:04:57
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 2
+                                    [test_total_price] => 200
+                                    [result] => szf,lz1
+                                    [added_on] => 2018-01-26 17:19:05
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => szf,zsmdzm.asas
+                                    [added_on] => 2018-01-26 17:16:22
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => mzmmfd,xf
+                                    [added_on] => 2018-01-26 17:16:31
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [sample_id] => 2
+                    [sample_no] => B/01/25/002
+
+                    [admin_id] => 1
+                    [sample_received_on] => 25-01-2018
+                    [order_type] => 2
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/B/2018/01/25/002
+
+                    [certificate_date] => 01-03-2018
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-25 16:54:50
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 4
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 12
+                                    [added_on] => 2018-01-21 07:19:49
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 51
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-25 16:54:50
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 5
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 1321
+                                    [added_on] => 2018-01-21 07:19:49
+                                    [test_name] => sadas
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 52
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-25 16:54:50
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 53
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-25 16:54:50
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [sample_id] => 3
+                    [sample_no] => B/01/25/003
+
+                    [admin_id] => 1
+                    [sample_received_on] => 25-01-2018
+                    [order_type] => 2
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/B/2018/01/25/003
+
+                    [certificate_date] => 01-03-2018
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-25 16:55:00
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 6
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => sdzmdszd
+                                    [added_on] => 2018-01-26 17:23:56
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 54
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => smzldsd
+                                    [added_on] => 2018-01-26 17:24:00
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 8
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => s
+                                    [added_on] => 2018-01-21 07:20:18
+                                    [test_name] => sadas
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 55
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => TEStdnfndf
+                                    [added_on] => 2018-01-26 17:33:07
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 11
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => sdksl
+                                    [added_on] => 2018-01-21 07:20:18
+                                    [test_name] => cssf
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 56
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-25 16:55:00
+                                    [test_name] => cssf
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 7
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:18
+                                    [test_name] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 9
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:18
+                                    [test_name] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 10
+                                    [company_id] => 1
+                                    [sample_id] => 3
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:18
+                                    [test_name] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [sample_id] => 4
+                    [sample_no] => B/01/24/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 24-01-2018
+                    [order_type] => 2
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/B/2018/01/24/001
+
+                    [certificate_date] => 01-03-2018
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-25 16:55:18
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 12
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-25 18:43:11
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 57
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-25 16:55:18
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 14
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => s
+                                    [added_on] => 2018-01-21 07:20:22
+                                    [test_name] => sadas
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 58
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-25 16:55:18
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 17
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => sdksl
+                                    [added_on] => 2018-01-21 07:20:22
+                                    [test_name] => cssf
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 59
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-25 16:55:18
+                                    [test_name] => cssf
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 13
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:22
+                                    [test_name] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 15
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:22
+                                    [test_name] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 16
+                                    [company_id] => 1
+                                    [sample_id] => 4
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:22
+                                    [test_name] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [sample_id] => 7
+                    [sample_no] => 01-24-001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 24-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/2018/01/24/001
+
+                    [certificate_date] => 01-03-2018
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-25 17:00:52
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 30
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => sd
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 66
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => ksnsflksd
+                                    [added_on] => 2018-01-26 17:31:22
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 32
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => s
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => sadas
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 67
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-25 17:00:52
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 35
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => sdksl
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => cssf
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 68
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-25 17:00:52
+                                    [test_name] => cssf
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 31
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 33
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 34
+                                    [company_id] => 1
+                                    [sample_id] => 7
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [sample_id] => 8
+                    [sample_no] => 01-24-002
+
+                    [admin_id] => 1
+                    [sample_received_on] => 24-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/2018/01/24/002
+
+                    [certificate_date] => 01-03-2018
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-25 17:01:14
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 36
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => sd
+                                    [added_on] => 2018-01-26 17:22:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 69
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => dsds,,szmc
+                                    [added_on] => 2018-01-26 17:23:09
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 38
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => szmlxmvx
+                                    [added_on] => 2018-01-26 17:23:33
+                                    [test_name] => sadas
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 70
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-25 17:01:14
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 41
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => sdksl
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => cssf
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 71
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-25 17:01:14
+                                    [test_name] => cssf
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 37
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 39
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 40
+                                    [company_id] => 1
+                                    [sample_id] => 8
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [sample_id] => 9
+                    [sample_no] => B/01/24/002
+
+                    [admin_id] => 1
+                    [sample_received_on] => 24-01-2018
+                    [order_type] => 2
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/B/2018/01/24/002
+
+                    [certificate_date] => 01-03-2018
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-25 17:01:26
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 42
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => lsadsadl
+                                    [added_on] => 2018-01-26 17:28:17
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 72
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => tttttttttttttttttttttt
+                                    [added_on] => 2018-01-26 17:34:30
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 44
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => s
+                                    [added_on] => 2018-01-26 17:28:21
+                                    [test_name] => sadas
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 73
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => zsfsfsfsdf
+                                    [added_on] => 2018-01-26 17:34:50
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 47
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => sdksl
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => cssf
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 74
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => dnfkndf
+                                    [added_on] => 2018-01-26 17:35:54
+                                    [test_name] => cssf
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 43
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 45
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 46
+                                    [company_id] => 1
+                                    [sample_id] => 9
+                                    [test_id] => 0
+                                    [test_price] => 0
+                                    [test_qty] => 
+                                    [test_total_price] => 0
+                                    [result] => 
+                                    [added_on] => 2018-01-21 07:20:23
+                                    [test_name] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 7 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:15:17: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:15:17: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [success] => 0
+    [message] => Samples not found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:15:17: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:15:17: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:15:22: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:15:22: Request: 
+Posted_Data:Array
+(
+    [op] => get_tests
+    [company_id] => 1
+)
+
+Posted Data:op=get_tests&company_id=1
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [test_id] => 2
+                    [parent_test_id] => 0
+                    [test_name] => Add New Test Add New Test Add New Test
+                    [test_price] => 100
+                    [added_on] => 2018-01-19 18:43:19
+                    [parent_test] => 
+                )
+
+            [1] => Array
+                (
+                    [test_id] => 3
+                    [parent_test_id] => 2
+                    [test_name] => 1-1
+                    [test_price] => 100
+                    [added_on] => 2018-01-10 16:54:28
+                    [parent_test] => Add New Test Add New Test Add New Test
+                )
+
+            [2] => Array
+                (
+                    [test_id] => 4
+                    [parent_test_id] => 0
+                    [test_name] => sadas
+                    [test_price] => 100
+                    [added_on] => 2018-01-16 17:51:53
+                    [parent_test] => 
+                )
+
+            [3] => Array
+                (
+                    [test_id] => 5
+                    [parent_test_id] => 0
+                    [test_name] => cssf
+                    [test_price] => 122
+                    [added_on] => 2018-01-16 17:51:58
+                    [parent_test] => 
+                )
+
+        )
+
+    [success] => 1
+    [message] => 4 Tests  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:16:41: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:16:41: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [success] => 0
+    [message] => Samples not found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:16:41: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:16:41: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:16:45: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:16:45: Request: 
+Posted_Data:Array
+(
+    [op] => get_tests
+    [company_id] => 1
+)
+
+Posted Data:op=get_tests&company_id=1
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [test_id] => 2
+                    [parent_test_id] => 0
+                    [test_name] => Add New Test Add New Test Add New Test
+                    [test_price] => 100
+                    [added_on] => 2018-01-19 18:43:19
+                    [parent_test] => 
+                )
+
+            [1] => Array
+                (
+                    [test_id] => 3
+                    [parent_test_id] => 2
+                    [test_name] => 1-1
+                    [test_price] => 100
+                    [added_on] => 2018-01-10 16:54:28
+                    [parent_test] => Add New Test Add New Test Add New Test
+                )
+
+            [2] => Array
+                (
+                    [test_id] => 4
+                    [parent_test_id] => 0
+                    [test_name] => sadas
+                    [test_price] => 100
+                    [added_on] => 2018-01-16 17:51:53
+                    [parent_test] => 
+                )
+
+            [3] => Array
+                (
+                    [test_id] => 5
+                    [parent_test_id] => 0
+                    [test_name] => cssf
+                    [test_price] => 122
+                    [added_on] => 2018-01-16 17:51:58
+                    [parent_test] => 
+                )
+
+        )
+
+    [success] => 1
+    [message] => 4 Tests  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:17:03: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:17:03: Request: 
+Posted_Data:Array
+(
+    [op] => add_samples
+    [sample_received_on] => 26/01/2018
+    [order_type] => 1
+    [company_id] => 1
+    [party_reference_no] => 1
+    [name_of_sample] => 
+    [batch_no] => 1
+    [test_id] => 2,4,5
+    [certificate_date] => 26/01/2018
+    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+    [payment_type] => 1
+    [total_sum_qty] => 3
+    [total_sum_price] => 322
+)
+
+Posted Data:op=add_samples&sample_received_on=26/01/2018&order_type=1&company_id=1&party_reference_no=1&name_of_sample=&batch_no=1&test_id=2,4,5&certificate_date=26/01/2018&order_price_data=2-100-1-100-,4-100-1-100-,5-122-1-122-&payment_type=1&total_sum_qty=3&total_sum_price=322
+Array
+(
+    [success] => 0
+    [message] => Missing Name Of Sample
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:17:12: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:17:12: Request: 
+Posted_Data:Array
+(
+    [op] => add_samples
+    [sample_received_on] => 26/01/2018
+    [order_type] => 1
+    [company_id] => 1
+    [party_reference_no] => 1
+    [name_of_sample] => test
+    [batch_no] => 1
+    [test_id] => 2,4,5
+    [certificate_date] => 26/01/2018
+    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+    [payment_type] => 1
+    [total_sum_qty] => 3
+    [total_sum_price] => 322
+)
+
+Posted Data:op=add_samples&sample_received_on=26/01/2018&order_type=1&company_id=1&party_reference_no=1&name_of_sample=test&batch_no=1&test_id=2,4,5&certificate_date=26/01/2018&order_price_data=2-100-1-100-,4-100-1-100-,5-122-1-122-&payment_type=1&total_sum_qty=3&total_sum_price=322
+Array
+(
+    [success] => 1
+    [data] => Array
+        (
+            [sample_id] => 1
+            [sample_no] => 01/26/001
+
+            [admin_id] => 1
+            [sample_received_on] => 2018-01-26
+            [order_type] => 1
+            [company_id] => 1
+            [party_reference_no] => 1
+            [name_of_sample] => test
+            [sample_qty] => 0
+            [batch_no] => 1
+            [test_id] => 2,4,5
+            [certificate_no] => CAS/2018/01/26/001
+
+            [certificate_date] => 1970-01-01
+            [order_price] => 10
+            [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+            [payment_type] => 1
+            [remark] => 
+            [total_sum_qty] => 3
+            [total_sum_price] => 322
+            [is_deleted] => 0
+            [added_on] => 2018-01-26 18:17:12
+        )
+
+    [message] => Sample addedd Success
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:17:12: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:17:12: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => test
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/2018/01/26/001
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:17:12
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 1 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:17:34: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:17:34: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => test
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/2018/01/26/001
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:17:12
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 1 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:17:34: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:17:34: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:17:38: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:17:38: Request: 
+Posted_Data:Array
+(
+    [op] => get_tests
+    [company_id] => 1
+)
+
+Posted Data:op=get_tests&company_id=1
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [test_id] => 2
+                    [parent_test_id] => 0
+                    [test_name] => Add New Test Add New Test Add New Test
+                    [test_price] => 100
+                    [added_on] => 2018-01-19 18:43:19
+                    [parent_test] => 
+                )
+
+            [1] => Array
+                (
+                    [test_id] => 3
+                    [parent_test_id] => 2
+                    [test_name] => 1-1
+                    [test_price] => 100
+                    [added_on] => 2018-01-10 16:54:28
+                    [parent_test] => Add New Test Add New Test Add New Test
+                )
+
+            [2] => Array
+                (
+                    [test_id] => 4
+                    [parent_test_id] => 0
+                    [test_name] => sadas
+                    [test_price] => 100
+                    [added_on] => 2018-01-16 17:51:53
+                    [parent_test] => 
+                )
+
+            [3] => Array
+                (
+                    [test_id] => 5
+                    [parent_test_id] => 0
+                    [test_name] => cssf
+                    [test_price] => 122
+                    [added_on] => 2018-01-16 17:51:58
+                    [parent_test] => 
+                )
+
+        )
+
+    [success] => 1
+    [message] => 4 Tests  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:20:14: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:20:14: Request: 
+Posted_Data:Array
+(
+    [op] => add_samples
+    [sample_received_on] => 26/01/2018
+    [order_type] => 1
+    [company_id] => 1
+    [party_reference_no] => 1
+    [name_of_sample] => 1
+    [batch_no] => 1
+    [test_id] => 2,4,5
+    [certificate_date] => 26/01/2018
+    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+    [payment_type] => 1
+    [total_sum_qty] => 3
+    [total_sum_price] => 322
+)
+
+Posted Data:op=add_samples&sample_received_on=26/01/2018&order_type=1&company_id=1&party_reference_no=1&name_of_sample=1&batch_no=1&test_id=2,4,5&certificate_date=26/01/2018&order_price_data=2-100-1-100-,4-100-1-100-,5-122-1-122-&payment_type=1&total_sum_qty=3&total_sum_price=322
+Array
+(
+    [success] => 1
+    [data] => Array
+        (
+            [sample_id] => 2
+            [sample_no] => 01/26/002
+
+            [admin_id] => 1
+            [sample_received_on] => 2018-01-26
+            [order_type] => 1
+            [company_id] => 1
+            [party_reference_no] => 1
+            [name_of_sample] => 1
+            [sample_qty] => 0
+            [batch_no] => 1
+            [test_id] => 2,4,5
+            [certificate_no] => CAS/18/01/26/002
+
+            [certificate_date] => 1970-01-01
+            [order_price] => 10
+            [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+            [payment_type] => 1
+            [remark] => 
+            [total_sum_qty] => 3
+            [total_sum_price] => 322
+            [is_deleted] => 0
+            [added_on] => 2018-01-26 18:20:14
+        )
+
+    [message] => Sample addedd Success
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:20:14: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:20:14: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => test
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/2018/01/26/001
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:17:12
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [sample_id] => 2
+                    [sample_no] => 01/26/002
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/002
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:20:14
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 4
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 5
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 6
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 2 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:20:45: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:20:45: Request: 
+Posted_Data:Array
+(
+    [op] => add_test_results
+    [price_record_id] => 1
+    [result] => fknkf
+)
+
+Posted Data:op=add_test_results&price_record_id=1&result=fknkf
+Array
+(
+    [success] => 1
+    [data] => Array
+        (
+            [price_record_id] => 1
+            [company_id] => 1
+            [sample_id] => 1
+            [test_id] => 2
+            [test_price] => 100
+            [test_qty] => 1
+            [test_total_price] => 100
+            [result] => fknkf
+            [added_on] => 2018-01-26 18:20:45
+        )
+
+    [message] => Record Success
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:20:45: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:20:45: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => test
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/2018/01/26/001
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:17:12
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => fknkf
+                                    [added_on] => 2018-01-26 18:20:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [sample_id] => 2
+                    [sample_no] => 01/26/002
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/002
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:20:14
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 4
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 5
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 6
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 2 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:20:50: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:20:50: Request: 
+Posted_Data:Array
+(
+    [op] => add_test_results
+    [price_record_id] => 2
+    [result] => dmfkldm
+)
+
+Posted Data:op=add_test_results&price_record_id=2&result=dmfkldm
+Array
+(
+    [success] => 1
+    [data] => Array
+        (
+            [price_record_id] => 2
+            [company_id] => 1
+            [sample_id] => 1
+            [test_id] => 4
+            [test_price] => 100
+            [test_qty] => 1
+            [test_total_price] => 100
+            [result] => dmfkldm
+            [added_on] => 2018-01-26 18:20:50
+        )
+
+    [message] => Record Success
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:20:50: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:20:50: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => test
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/2018/01/26/001
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:17:12
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => fknkf
+                                    [added_on] => 2018-01-26 18:20:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => dmfkldm
+                                    [added_on] => 2018-01-26 18:20:50
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [sample_id] => 2
+                    [sample_no] => 01/26/002
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/002
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:20:14
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 4
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 5
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 6
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 2 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:20:55: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:20:55: Request: 
+Posted_Data:Array
+(
+    [op] => add_test_results
+    [price_record_id] => 2
+    [result] => msdlsmd
+)
+
+Posted Data:op=add_test_results&price_record_id=2&result=msdlsmd
+Array
+(
+    [success] => 1
+    [data] => Array
+        (
+            [price_record_id] => 2
+            [company_id] => 1
+            [sample_id] => 1
+            [test_id] => 4
+            [test_price] => 100
+            [test_qty] => 1
+            [test_total_price] => 100
+            [result] => msdlsmd
+            [added_on] => 2018-01-26 18:20:55
+        )
+
+    [message] => Record Success
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:20:55: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:20:55: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => test
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/2018/01/26/001
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:17:12
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => fknkf
+                                    [added_on] => 2018-01-26 18:20:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => msdlsmd
+                                    [added_on] => 2018-01-26 18:20:55
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [sample_id] => 2
+                    [sample_no] => 01/26/002
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/002
+
+                    [certificate_date] => 01-01-1970
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:20:14
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 4
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 5
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => sadas
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 6
+                                    [company_id] => 1
+                                    [sample_id] => 2
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:20:14
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 2 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:26:58: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:26:58: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [success] => 0
+    [message] => Samples not found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:26:58: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:26:58: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:27:03: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:27:03: Request: 
+Posted_Data:Array
+(
+    [op] => get_tests
+    [company_id] => 1
+)
+
+Posted Data:op=get_tests&company_id=1
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [test_id] => 2
+                    [parent_test_id] => 0
+                    [test_name] => Add New Test Add New Test Add New Test
+                    [test_price] => 100
+                    [added_on] => 2018-01-19 18:43:19
+                    [parent_test] => 
+                )
+
+            [1] => Array
+                (
+                    [test_id] => 3
+                    [parent_test_id] => 2
+                    [test_name] => 1-1
+                    [test_price] => 100
+                    [added_on] => 2018-01-10 16:54:28
+                    [parent_test] => Add New Test Add New Test Add New Test
+                )
+
+            [2] => Array
+                (
+                    [test_id] => 4
+                    [parent_test_id] => 0
+                    [test_name] => sadas
+                    [test_price] => 100
+                    [added_on] => 2018-01-16 17:51:53
+                    [parent_test] => 
+                )
+
+            [3] => Array
+                (
+                    [test_id] => 5
+                    [parent_test_id] => 0
+                    [test_name] => cssf
+                    [test_price] => 122
+                    [added_on] => 2018-01-16 17:51:58
+                    [parent_test] => 
+                )
+
+        )
+
+    [success] => 1
+    [message] => 4 Tests  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:27:16: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:27:16: Request: 
+Posted_Data:Array
+(
+    [op] => add_samples
+    [sample_received_on] => 26/01/2018
+    [order_type] => 1
+    [company_id] => 1
+    [party_reference_no] => 1
+    [name_of_sample] => 1
+    [batch_no] => 1
+    [test_id] => 2,4,5
+    [certificate_date] => 26/01/2018
+    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+    [payment_type] => 1
+    [total_sum_qty] => 3
+    [total_sum_price] => 322
+)
+
+Posted Data:op=add_samples&sample_received_on=26/01/2018&order_type=1&company_id=1&party_reference_no=1&name_of_sample=1&batch_no=1&test_id=2,4,5&certificate_date=26/01/2018&order_price_data=2-100-1-100-,4-100-1-100-,5-122-1-122-&payment_type=1&total_sum_qty=3&total_sum_price=322
+Array
+(
+    [success] => 1
+    [data] => Array
+        (
+            [sample_id] => 1
+            [sample_no] => 01/26/001
+
+            [admin_id] => 1
+            [sample_received_on] => 2018-01-26
+            [order_type] => 1
+            [company_id] => 1
+            [party_reference_no] => 1
+            [name_of_sample] => 1
+            [sample_qty] => 0
+            [batch_no] => 1
+            [test_id] => 2,4,5
+            [certificate_no] => CAS/18/01/26/001
+
+            [certificate_date] => 0000-00-00
+            [order_price] => 10
+            [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+            [payment_type] => 1
+            [remark] => 
+            [total_sum_qty] => 3
+            [total_sum_price] => 322
+            [is_deleted] => 0
+            [added_on] => 2018-01-26 18:27:16
+        )
+
+    [message] => Sample addedd Success
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:27:16: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:27:16: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 1
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/001
+
+                    [certificate_date] => 00-00-0000
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:27:16
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => fknkf
+                                    [added_on] => 2018-01-26 18:20:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 7
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => msdlsmd
+                                    [added_on] => 2018-01-26 18:20:55
+                                    [test_name] => sadas
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 8
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 9
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 1 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:28:25: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:28:25: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [success] => 0
+    [message] => Samples not found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:28:25: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:28:25: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:28:30: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:28:30: Request: 
+Posted_Data:Array
+(
+    [op] => get_tests
+    [company_id] => 1
+)
+
+Posted Data:op=get_tests&company_id=1
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [test_id] => 2
+                    [parent_test_id] => 0
+                    [test_name] => Add New Test Add New Test Add New Test
+                    [test_price] => 100
+                    [added_on] => 2018-01-19 18:43:19
+                    [parent_test] => 
+                )
+
+            [1] => Array
+                (
+                    [test_id] => 3
+                    [parent_test_id] => 2
+                    [test_name] => 1-1
+                    [test_price] => 100
+                    [added_on] => 2018-01-10 16:54:28
+                    [parent_test] => Add New Test Add New Test Add New Test
+                )
+
+            [2] => Array
+                (
+                    [test_id] => 4
+                    [parent_test_id] => 0
+                    [test_name] => sadas
+                    [test_price] => 100
+                    [added_on] => 2018-01-16 17:51:53
+                    [parent_test] => 
+                )
+
+            [3] => Array
+                (
+                    [test_id] => 5
+                    [parent_test_id] => 0
+                    [test_name] => cssf
+                    [test_price] => 122
+                    [added_on] => 2018-01-16 17:51:58
+                    [parent_test] => 
+                )
+
+        )
+
+    [success] => 1
+    [message] => 4 Tests  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:28:42: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:28:42: Request: 
+Posted_Data:Array
+(
+    [op] => add_samples
+    [sample_received_on] => 26/01/2018
+    [order_type] => 1
+    [company_id] => 1
+    [party_reference_no] => 11
+    [name_of_sample] => 1
+    [batch_no] => 1
+    [test_id] => 2,4,5
+    [certificate_date] => 26/01/2018
+    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+    [payment_type] => 1
+    [total_sum_qty] => 3
+    [total_sum_price] => 322
+)
+
+Posted Data:op=add_samples&sample_received_on=26/01/2018&order_type=1&company_id=1&party_reference_no=11&name_of_sample=1&batch_no=1&test_id=2,4,5&certificate_date=26/01/2018&order_price_data=2-100-1-100-,4-100-1-100-,5-122-1-122-&payment_type=1&total_sum_qty=3&total_sum_price=322
+Array
+(
+    [success] => 1
+    [data] => Array
+        (
+            [sample_id] => 1
+            [sample_no] => 01/26/001
+
+            [admin_id] => 1
+            [sample_received_on] => 2018-01-26
+            [order_type] => 1
+            [company_id] => 1
+            [party_reference_no] => 11
+            [name_of_sample] => 1
+            [sample_qty] => 0
+            [batch_no] => 1
+            [test_id] => 2,4,5
+            [certificate_no] => CAS/18/01/26/001
+
+            [certificate_date] => 
+            [order_price] => 10
+            [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+            [payment_type] => 1
+            [remark] => 
+            [total_sum_qty] => 3
+            [total_sum_price] => 322
+            [is_deleted] => 0
+            [added_on] => 2018-01-26 18:28:42
+        )
+
+    [message] => Sample addedd Success
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:28:42: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:28:42: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 11
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/001
+
+                    [certificate_date] => 
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:28:42
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => fknkf
+                                    [added_on] => 2018-01-26 18:20:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 7
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 10
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => msdlsmd
+                                    [added_on] => 2018-01-26 18:20:55
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 8
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => sadas
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 11
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => sadas
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 9
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => cssf
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 12
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 1 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:28:58: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:28:58: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 11
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/001
+
+                    [certificate_date] => 
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:28:42
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => fknkf
+                                    [added_on] => 2018-01-26 18:20:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 7
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 10
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => msdlsmd
+                                    [added_on] => 2018-01-26 18:20:55
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 8
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => sadas
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 11
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => sadas
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 9
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => cssf
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 12
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 1 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:28:58: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:28:58: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:29:51: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:29:51: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:29:51: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:29:51: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 11
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/001
+
+                    [certificate_date] => 
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:28:42
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => fknkf
+                                    [added_on] => 2018-01-26 18:20:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 7
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 10
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => msdlsmd
+                                    [added_on] => 2018-01-26 18:20:55
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 8
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => sadas
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 11
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => sadas
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 9
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => cssf
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 12
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 1 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:31:13: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:31:13: Request: 
+Posted_Data:Array
+(
+    [op] => get_samples
+)
+
+Posted Data:op=get_samples
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [sample_id] => 1
+                    [sample_no] => 01/26/001
+
+                    [admin_id] => 1
+                    [sample_received_on] => 26-01-2018
+                    [order_type] => 1
+                    [company_id] => 1
+                    [party_reference_no] => 11
+                    [name_of_sample] => 1
+                    [sample_qty] => 0
+                    [batch_no] => 1
+                    [test_id] => 2,4,5
+                    [certificate_no] => CAS/18/01/26/001
+
+                    [certificate_date] => 
+                    [order_price] => 10
+                    [order_price_data] => 2-100-1-100-,4-100-1-100-,5-122-1-122-
+                    [payment_type] => 1
+                    [remark] => 
+                    [total_sum_qty] => 3
+                    [total_sum_price] => 322
+                    [is_deleted] => 0
+                    [added_on] => 2018-01-26 18:28:42
+                    [company_name] => Cubic
+                    [test_name_list] => Add New Test Add New Test Add New Test,sadas,cssf
+                    [test_price_list] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [price_record_id] => 1
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => fknkf
+                                    [added_on] => 2018-01-26 18:20:45
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [1] => Array
+                                (
+                                    [price_record_id] => 7
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [2] => Array
+                                (
+                                    [price_record_id] => 10
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 2
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => Add New Test Add New Test Add New Test
+                                )
+
+                            [3] => Array
+                                (
+                                    [price_record_id] => 2
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => msdlsmd
+                                    [added_on] => 2018-01-26 18:20:55
+                                    [test_name] => sadas
+                                )
+
+                            [4] => Array
+                                (
+                                    [price_record_id] => 8
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => sadas
+                                )
+
+                            [5] => Array
+                                (
+                                    [price_record_id] => 11
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 4
+                                    [test_price] => 100
+                                    [test_qty] => 1
+                                    [test_total_price] => 100
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => sadas
+                                )
+
+                            [6] => Array
+                                (
+                                    [price_record_id] => 3
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:17:12
+                                    [test_name] => cssf
+                                )
+
+                            [7] => Array
+                                (
+                                    [price_record_id] => 9
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:27:16
+                                    [test_name] => cssf
+                                )
+
+                            [8] => Array
+                                (
+                                    [price_record_id] => 12
+                                    [company_id] => 1
+                                    [sample_id] => 1
+                                    [test_id] => 5
+                                    [test_price] => 122
+                                    [test_qty] => 1
+                                    [test_total_price] => 122
+                                    [result] => 
+                                    [added_on] => 2018-01-26 18:28:42
+                                    [test_name] => cssf
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [success] => 1
+    [query] => 
+	    	SELECT smp.*,cmp.name as company_name
+	    	, DATE_FORMAT( sample_received_on,  '%d-%m-%Y' ) AS sample_received_on
+	    	, DATE_FORMAT( certificate_date,  '%d-%m-%Y' ) AS certificate_date
+	    	FROM tbl_samples smp 
+			LEFT JOIN tbl_companies cmp ON smp.company_id=cmp.company_id
+			WHERE  '1:1' AND IFNULL(is_deleted,0) = '0' 
+    [message] => 1 Samples  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+
+
+2018-01-26 18:31:13: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+
+2018-01-26 18:31:13: Request: 
+Posted_Data:Array
+(
+    [op] => get_company
+)
+
+Posted Data:op=get_company
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [company_id] => 1
+                    [address] => Surat
+                    [contact_no] => 123456798
+                    [email] => abc@abc,com
+                    [name] => Cubic
+                    [contact_person] => XYZ
+                    [password] => MTIz
+                    [added_on] => 2018-01-10 17:00:12
+                )
+
+            [1] => Array
+                (
+                    [company_id] => 2
+                    [address] => Surat
+                    [contact_no] => 123
+                    [email] => asas@as.com
+                    [name] => Cubic1
+                    [contact_person] => test
+                    [password] => MTI=
+                    [added_on] => 2018-01-10 17:01:48
+                )
+
+            [2] => Array
+                (
+                    [company_id] => 3
+                    [address] => s,d;s,
+                    [contact_no] => l,lsd
+                    [email] => dlsc
+                    [name] => as,a;
+                    [contact_person] => lsdm
+                    [password] => bWxzYw==
+                    [added_on] => 2018-01-11 19:16:07
+                )
+
+            [3] => Array
+                (
+                    [company_id] => 4
+                    [address] => mmslkm
+                    [contact_no] => mqksmkm
+                    [email] => mdklsmc
+                    [name] => msmlf
+                    [contact_person] => lmlskmlm
+                    [password] => bWxkcw==
+                    [added_on] => 2018-01-11 19:16:13
+                )
+
+            [4] => Array
+                (
+                    [company_id] => 5
+                    [address] => mskmfl
+                    [contact_no] => mlksmklm
+                    [email] => mmdlkm
+                    [name] => msmlfmm
+                    [contact_person] => mkmlk
+                    [password] => ZGxs
+                    [added_on] => 2018-01-11 19:16:20
+                )
+
+            [5] => Array
+                (
+                    [company_id] => 6
+                    [address] => dlkml
+                    [contact_no] => mdklsmlk
+                    [email] => mldksm
+                    [name] => msfmlm
+                    [contact_person] => mkldsm
+                    [password] => bWRrZHNsdg==
+                    [added_on] => 2018-01-11 19:16:26
+                )
+
+            [6] => Array
+                (
+                    [company_id] => 7
+                    [address] => ml
+                    [contact_no] => mlmlwmlm
+                    [email] => ml
+                    [name] => mslkmflmldlqmdwq
+                    [contact_person] => l
+                    [password] => bWRscw==
+                    [added_on] => 2018-01-11 19:16:36
+                )
+
+            [7] => Array
+                (
+                    [company_id] => 8
+                    [address] => mlfmdsl
+                    [contact_no] => mlskfm
+                    [email] => mlds
+                    [name] => smlml
+                    [contact_person] => mdklmfls
+                    [password] => c21kc2w=
+                    [added_on] => 2018-01-11 19:16:43
+                )
+
+            [8] => Array
+                (
+                    [company_id] => 9
+                    [address] => mldsmfl
+                    [contact_no] => mkdslm
+                    [email] => mfklm
+                    [name] => smflml
+                    [contact_person] => mkdls
+                    [password] => c3NmbQ==
+                    [added_on] => 2018-01-11 19:16:50
+                )
+
+            [9] => Array
+                (
+                    [company_id] => 10
+                    [address] => sdsd
+                    [contact_no] => szd
+                    [email] => sds
+                    [name] => tet
+                    [contact_person] => sds
+                    [password] => MQ==
+                    [added_on] => 2018-01-12 19:02:06
+                )
+
+        )
+
+    [success] => 1
+    [message] => 10 Companies  found
+)
+
+FILES POSTDATA:Array
+(
+)
+
+

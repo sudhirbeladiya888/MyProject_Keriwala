@@ -60,7 +60,10 @@
   }*/
   /* Cross and check mark*/
 
-
+  .SelectPDFBtn
+  {
+    margin: 5px;
+  }
 
 </style>
 <link rel="stylesheet" href="css/dropzone.css">
@@ -379,7 +382,7 @@
               <th>#</th>
               <th style="width: 30%;text-align: justify;">Test Name</th>
               <th style="width: 10%;"">Price</th>
-              <th style="width: 70%;text-align: justify;">Result</th>
+              <!-- <th style="width: 70%;text-align: justify;">Result</th> -->
               <th style="width: 70%;text-align: justify;">Action</th>
             </tr>
           </thead>
@@ -401,18 +404,17 @@
     <!-- Modal content-->
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="close ResultModalClose">&times;</button>
+        <button type="button" class="close ResultModalClose" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">Add Result</h4>
       </div>
       <div class="modal-body" style="">
-        <div class="form-group">
-          <label for="result_text">Result:</label>
           <input type="hidden" name="" class="test_id_result">
-          <textarea class="form-control result_text testID" rows="5" id=""></textarea>
-        </div>
+          <div class="form-group divResult">
+            
+          </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default ResultModalClose">Close</button>
+        <button type="button" class="btn btn-default ResultModalClose" data-dismiss="modal">Close</button>
         <button type="button" class="btn btn-primary  SaveResult">Save</button>
       </div>
     </div>
@@ -567,7 +569,7 @@
               PriceSum = parseInt(PriceSum)+parseInt(MainValue[1]);
               textField += '<tr>\
                         <td>\
-                        <input type="text" name="" class="coustom-form-control data-id="'+t_index+'"  value="'+textTest+'" readonly style="background-color: #eee;min-width: 250px;max-width: 300px;"></td>\
+                        <input type="text" name="" class="coustom-form-control data-id="'+t_index+'"  value="'+textTest+'" readonly style="background-color: #eee;min-width: 250px;max-width: 300px;border-radius: 0px;"></td>\
                         <td>\
                         <input type="hidden" name="" class="form-control  PerId_'+t_index+'" data-id="'+t_index+'"  value="'+MainValue[0]+'">\
                         <input type="text" name="" class="form-control PriceCls PerPrice_'+t_index+'" data-id="'+t_index+'"  value="'+MainValue[1]+'"  style="width: 60px;"></td>\
@@ -586,11 +588,12 @@
                         <td>\
                             <input type="hidden" class="form-control ResultCls PerResult_'+t_index+'" data-id="'+t_index+'">\
                         </td>\
-                        <td>\
-                            <i class="fa fa-times AddResult_'+t_index+'"" id="AddResult" data-id="'+t_index+'" aria-hidden="true" style="font-size: 22px;cursor: pointer;"></i>\
-                        </td>\
+                        \
                       </tr>';//check
             });
+            // <td>\
+            //                 <i class="fa fa-times AddResult_'+t_index+'"" id="AddResult" data-id="'+t_index+'" aria-hidden="true" style="font-size: 22px;cursor: pointer;"></i>\
+            //             </td>\
             // showAlert(PriceSum);
 
             textField += '<tr>\
@@ -779,20 +782,20 @@
       $("#AddResultsModal").modal("show");
       var test_id_result =  $(this).attr("data-id");
       $(".test_id_result").val(test_id_result);
-      // $(".AddResult_"+test_id_result).val(test_id_result);
+      $(".AddResult_"+test_id_result).val(test_id_result);
       $(".testID").removeClass("result_text");
       $(".testID").addClass("result_text_"+test_id_result);
       
-      $(".TimeBtn").addClass("TimesBtn_"+test_id_result);
-      $(".result_text_"+test_id_result).val($(".PerResult_"+test_id_result).val());
+      // $(".TimeBtn").addClass("TimesBtn_"+test_id_result);
+      // $(".result_text_"+test_id_result).val($(".PerResult_"+test_id_result).val());
       
     });
       $("#AddResultsModal").delegate(".SaveResult", "click", function(){
       // $("#AddResultsModal").modal("hide");
-      var test_id_result =  $(".test_id_result").val();
-      var result_text =  $(".result_text_"+test_id_result).val();
-    // showAlert(test_id_result);
-    // add_test_results(null,test_id_result,result_text);
+      // var test_id_result =  $(".test_id_result").val();
+      // var result_text =  $(".result_text_"+test_id_result).val();
+    // showAlert(result_text);
+    add_test_results();
     });
 
 ////////////////////////// ALL BUTTONS CLICK EVENT LIST
@@ -866,7 +869,14 @@ var CurrentRow = [];
                 // }
                 ,{ "data": "certificate_no" }
                 ,{ "data": "certificate_date" }
-                ,{ "data": "remark" }
+                ,{"mRender": function ( data, type, row, meta ) {
+                    var btn =  "<button type='button' class='btn btn-danger' >Pending</button>";
+                    if(row.remark == 1)
+                    {
+                      btn =  "<button type='button' class='btn btn-success' >Completed</button>";
+                    }
+                        return btn; }
+                  }
                 ,{"mRender": function ( data, type, row, meta ) {
                         return "\
             <div style='    display: inline-flex;'>\
@@ -894,7 +904,9 @@ var CurrentRow = [];
 ////////////////////////// PRINT SAMPLE DATA
     function print_sample(sample_id)
     {
-         window.open('web_services/print_sample.php?sample='+sample_id+',no');
+          
+          setTimeout(function(){ get_samples(); }, 3000);
+         window.open('web_services/print_sample.php?sample='+sample_id+'');
     }
 
 ////////////////////////// UPLOAD PDF FILES
@@ -904,11 +916,11 @@ var CurrentRow = [];
         $("#UploadPDFModal").modal("show");
         var uploads_no_of_files = "";
         $(data.test_price_list).each(function(index, index_data){
-          console.log(index_data);
+          // console.log(index_data);
           var price_record_id = index_data.price_record_id;
                 
-          uploads_no_of_files += '<button class="btn btn-primary" onclick="select_PDF_file('+index_data.price_record_id+')">+</button>';
-        console.log(uploads_no_of_files);
+          uploads_no_of_files += '<button class="btn btn-primary SelectPDFBtn" onclick="select_PDF_file('+index_data.price_record_id+')">+</button>';
+        // console.log(uploads_no_of_files);
         });
         $(".uploads_no_of_files_div").html(uploads_no_of_files);
     }
@@ -924,11 +936,11 @@ var CurrentRow = [];
       {
           $("#td_order_type").val("1");
           $("#td_order_from").val("");
-          $("#td_certificate_date").val("");
+          // $("#td_certificate_date").val("");
           // $("#sel_company").val("");
           $('#sel_company option:selected').each(function() {
             $(this).prop('selected', false);
-          })
+          });
           $('#sel_company').multiselect('refresh');
           $("#td_party_reference_no").val("");
           $("#td_name_of_sample").val("");
@@ -941,8 +953,10 @@ var CurrentRow = [];
           $('#sel_test').multiselect('refresh');
           $("#td_order_price").val("");
           $("#td_payment_type").val("1");
-          $("#td_sample_received_on").val("");
+          // $("#td_sample_received_on").val("");
           $(".priceCalculation").html("");
+          $("#sel_test_btn").text('Select Test');
+          $("#sel_cmp_btn").text('Select Company');
         }
 
 
@@ -1078,29 +1092,46 @@ var CurrentRow = [];
 
 
       ////////////////////////// SET EDIT SAMPLE DATA ON FORM
+      var CurrentResult = [];
       function view_test_record(row_index) {
         data = CurrentRow[row_index];
-        console.log(data);
         
         $("#ViewTestRecordsModal").modal("show");
         var textField = [];
+        CurrentResult = data.test_price_list;
         for(i=0;i<data.test_price_list.length;i++){
             obj = data.test_price_list[i];
             t_index = i+1;
+            if(obj.result != '')
+            {
+                var RslBtn = '<button class="btn btn-success btnTimeBtn_'+obj.price_record_id+'" data-id='+obj.price_record_id+' onclick="showResult('+i+')"><i class="fa fa-check TimeBtn TimeBtn_'+obj.price_record_id+'"></i>';
+            }
+            else
+            {
+              var RslBtn = '<button class="btn btn-danger btnTimeBtn_'+obj.price_record_id+'" data-id='+obj.price_record_id+' onclick="showResult('+i+')"><i class="fa fa-times TimeBtn TimeBtn_'+obj.price_record_id+'"></i>';
+            }
             
             textField += '<tr>\
               <th scope="row">'+t_index+'</th>\
               <td>'+obj.test_name+'</td>\
               <td>'+obj.test_total_price+'</td>\
-              <td>'+obj.result+'</td>\
-              <td><button class="btn btn-danger" id="AddResult" data-id='+obj.price_record_id+'><i class="fa fa-times TimeBtn"></i></td>\
+              <td>'+RslBtn+'</td>\
             </tr>';
             
           }            
-            $(".ViewTestRecordsTable tbody").html(textField);
+              // <td>'+obj.result+'</td>\
+          $(".ViewTestRecordsTable tbody").html(textField);
       }
 
 
+      function showResult(row_index) {
+        var data = CurrentResult[row_index];
+        $(".test_id_result").val(data.price_record_id);
+        $(".divResult").html('<label for="result_text">Result:</label>\
+            <textarea class="form-control result_text testID" value="" rows="5" id="">'+data.result+'</textarea>');
+        
+        $("#AddResultsModal").modal("show");
+      }
 
 ////////////////////////// UPDATE SAMPLE
       function update_sample(data) {
@@ -1205,27 +1236,34 @@ var CurrentRow = [];
 
 
       ////////////////////////// ADD TEST RESULT
-      function add_test_results(data,price_record_id,result){
+      function add_test_results(data){
 
         if (data && data != null && data.success == true) {
-          // clear_data();
-          // $("#OrderFormBtn").removeClass("btnEditOrder");
-          // $("#OrderFormBtn").addClass("btnAddOrder");
-          // get_samples();
+          var data = data.data ;
+          $(".TimeBtn_"+data.price_record_id).removeClass("fa-times");
+          $(".TimeBtn_"+data.price_record_id).addClass("fa-check");
+          $(".btnTimeBtn_"+data.price_record_id).removeClass("btn-danger");
+          $(".btnTimeBtn_"+data.price_record_id).addClass("btn-success");
+          // $(".testID").removeClass("result_text_"+data.price_record_id);
+          
+          get_samples();
           $("#AddResultsModal").modal("hide");
-          $(".AddResult_"+data.data['price_record_id']).removeClass("fa-times");
-        $(".AddResult_"+data.data['price_record_id']).addClass("fa-check");
           return true;
         }
         else if (data && data != null && data.success == false) {
-          showError(data.message);
+          $(".TimeBtn_"+data.price_record_id).addClass("fa-times");
+          $(".TimeBtn_"+data.price_record_id).removeClass("fa-check");
+          $(".btnTimeBtn_"+data.price_record_id).addClass("btn-danger");
+          $(".btnTimeBtn_"+data.price_record_id).removeClass("btn-success");
+          $("#AddResultsModal").modal("hide");
+          // showError(data.message);
           return false;
         }
         else if (!data) {
           var data = {
               op: "add_test_results"
-              ,'price_record_id' : price_record_id
-              ,'result' : result
+              ,'price_record_id'  : $(".test_id_result").val()
+              ,'result'           : $(".result_text").val()
             };
           doServiceCall(data, add_test_results)
         }

@@ -10,11 +10,11 @@
 		
 
 		
-		// if(empty($contact_person))
-		// {
-		// 	$outputjson['message'] = "Missing contact_person";
-		// 	return false;
-		// }
+		if(empty($result))
+		{
+			$outputjson['message'] = "Missing result";
+			return false;
+		}
 		// if(empty($password))
 		// {
 		// 	$outputjson['message'] = "Missing password";

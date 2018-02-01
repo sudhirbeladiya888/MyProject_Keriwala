@@ -17,7 +17,7 @@
 		$data['batch_no']					=	$batch_no				=	$gh->read("batch_no");
 		$data['test_id']					=	$test_id				=	$gh->read("test_id");
 												
-		$data['certificate_date']			=	$certificate_date		=	date('Y-m-d',strtotime($gh->read("certificate_date")));
+		$certificate_date		=	date('Y-m-d',strtotime($gh->read("certificate_date")));
 		$data['order_price']				=	$order_price			=	$gh->read("order_price",10);
 		$data['order_price_data']			=	$order_price_data		=	$gh->read("order_price_data");
 		$data['payment_type']				=	$payment_type			=	$gh->read("payment_type");
@@ -30,7 +30,7 @@
 		$data['sample_received_on']			=	$date_frmt;
 		$Today =  date('d',strtotime($date_frmt));
 		$ThisMonth =  date('m',strtotime($date_frmt));
-		$ThisYear =  date('Y',strtotime($date_frmt));
+		$ThisYear =  date('y',strtotime($date_frmt));
 		// die();
 
 
@@ -107,7 +107,7 @@
 		$total_record = $db->getRowcount("tbl_samples", "IFNULL(is_deleted,0) ='0' AND date(sample_received_on) = STR_TO_DATE('$date_frmt', '%Y-%m-%d') $where_se");
 		if($order_type == '1')
 		{
-			$data['sample_no']			=		$ThisMonth."-".$Today."-".sprintf("%'.03d\n", $total_record+1);
+			$data['sample_no']			=		$ThisMonth."/".$Today."/".sprintf("%'.03d\n", $total_record+1);
 			$data['certificate_no']		=		"CAS/".$ThisYear."/".$ThisMonth."/".$Today."/".sprintf("%'.03d\n", $total_record+1);
 		}
 		else

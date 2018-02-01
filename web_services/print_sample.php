@@ -11,11 +11,14 @@
     $gh = new HELPER();
     
     $sample_id = $gh->read('sample');
-        $sample_data = $db->execute("SELECT * from tbl_samples where sample_id='$sample_id'");
+        $sample_data = $db->execute("SELECT smp.*,cmp.name as company_name,DATE_FORMAT(smp.sample_received_on, '%d-%m-%Y') as sample_received_on, DATE_FORMAT(smp.certificate_date, '%d-%m-%Y') as certificate_date from tbl_samples smp 
+            LEFT JOIN tbl_companies cmp ON smp.company_id = cmp.company_id
+            where smp.sample_id='$sample_id'");
 
         $result_data = $db->execute("SELECT rec . * , ts.test_name
             FROM  `tbl_price_record` rec
             LEFT JOIN tbl_tests ts ON rec.test_id = ts.test_id
+            
             WHERE rec.sample_id ='$sample_id'");
     // $result_data = $result_data[0];
     // print_r($result_data);
@@ -27,6 +30,16 @@
         FROM  `tbl_price_record` rec
         LEFT JOIN tbl_tests ts ON rec.test_id = ts.test_id
         WHERE rec.sample_id ='$sample_id'");
+            $nal = "";
+            $update_date = $db->update("tbl_samples",array("certificate_date"=>date('Y-m-d'),"remark"=>1),"sample_id ='$sample_id' AND certificate_date IS NULL ");
+            if($update_date == '1')
+            {
+                $coa_date= date('d-m-Y');
+            }
+            else
+            {
+                $coa_date = $sample_data_dtl['certificate_date'];
+            }
 
 // Extend the TCPDF class to create custom Header and Footer
 class MYPDF extends TCPDF {
@@ -158,11 +171,11 @@ $pdf->AddPage();
                 <td>Certificate No</td>
                 <td>'.$sample_data_dtl['certificate_no'].'</td>
                 <td>Date</td>
-                <td>'.$sample_data_dtl['certificate_date'].'</td>
+                <td>'.$coa_date.'</td>
             </tr>
             <tr>
                 <td>Certificate Isssue To</td>
-                <td>-</td>
+                <td>'.$sample_data_dtl['company_name'].'</td>
                 <td>Party Reference No</td>
                 <td>'.$sample_data_dtl['party_reference_no'].'</td>
             </tr>
@@ -182,7 +195,7 @@ $pdf->AddPage();
                 <td>Original Mfg Name</td>
                 <td>-</td>
                 <td>Sample Qty</td>
-                <td>-</td>
+                <td>'.$sample_data_dtl['total_sum_qty'].'</td>
             </tr>
         </table>
         ';
@@ -229,7 +242,7 @@ $pdf->AddPage();
                 <td style="" colspan="2">Note : Party asked for above tests only</td>
             </tr>
             <tr>
-                <td style="" colspan="2">Report Date : '.Date("d-m-Y").'</td>
+                <td style="" colspan="2">Report Date : '.$coa_date.'</td>
             </tr>
             <tr>
                 <td style=""></td>
